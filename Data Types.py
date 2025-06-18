@@ -1,10 +1,11 @@
+#Data Types
 number = 45 #Integer
 second = 34.98 #float
 greeting = "Good Morning" #String
 ispythoninteresting = True #Boolean
 
 #Data Structures
-fruits = ["apple", "banana", "cherry"]  #List
+fruits = ["mango", "banana", "cherry"]  #List
 cars = ("Jeep", "BMW", "Tesla", "Toyota") #Tuple
 countries = {"Kenya", "Jamaica", "Bahamas"} #Set
 student = {
