@@ -15,8 +15,13 @@ courses.append("UI/UX")
 print(courses)
 print()
 
+for course in courses:
+    print(course)
+print()
+
 #Removing an Element
 courses.remove("DataScience")
+print(courses)
 print()
 
 

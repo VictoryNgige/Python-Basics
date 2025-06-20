@@ -1,0 +1,27 @@
+#Parent Class/Super Class/Base Class
+class Animal:
+    def speak(self):
+        print("Animal is speaking")
+
+    def eat(self):
+        print("Animal is eating")
+
+#Child Class/Sub Class/Derived Class
+class Dog(Animal):
+    def bark(self):
+        print("Dog is barking")
+    def fetch(self):
+        print("Dog is fetching a ball")
+
+a = Animal()
+
+
+
+
+d = Dog()
+d.eat()
+d.bark()
+
+
+
+
